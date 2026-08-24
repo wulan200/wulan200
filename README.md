@@ -80,12 +80,10 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 ### 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode"/>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,Antigravity,Google Colab" />
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" />
 </p>
-
-**Antigravity • Jupyter Notebook • VS Code**
-
 ---
 
 ## 🌱 Currently Learning
