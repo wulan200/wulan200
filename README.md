@@ -123,12 +123,11 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wulan200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wulan200&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
 ---
 
 ## 🎯 Career Goal
