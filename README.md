@@ -105,8 +105,8 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wulan200&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulan200&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wulan200&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulan200&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 ---
