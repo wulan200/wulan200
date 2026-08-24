@@ -122,11 +122,15 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 </p>
 
 ---
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wulan200&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://img.shields.io/github/stars/wulan200?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/followers/wulan200?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/commit-activity/y/wulan200?style=for-the-badge&logo=github&label=Commits" />
+<img src="https://img.shields.io/github/created-at/wulan200?style=for-the-badge&logo=github&label=Since" />
+
 </p>
 ---
 
