@@ -63,9 +63,10 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-**User Flow • Wireframing • Prototyping • Google Stitch**
+**User Flow • Wireframing • Prototyping**
 
 ### 📋 Product & System Analysis
 
