@@ -1,5 +1,17 @@
 # Hi there, I'm Wulan 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Informatics+Student;AI+%26+Machine+Learning+Enthusiast;Product+%26+System+Development;UI%2FUX+%26+Quality+Assurance" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wulan200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
 🎓 Informatics Student
 🤖 AI & Machine Learning Enthusiast
 📋 Product & System Development Enthusiast
@@ -27,52 +39,91 @@ I'm continuously expanding my skills through practical projects in **AI, Machine
 
 ## 💻 Tech Stack
 
-### Programming
+### 🐍 Programming & Data
 
-Python • SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### Data Science & AI
+### 🤖 AI & Machine Learning
 
-Pandas • NumPy • Scikit-learn
-Regression • Classification • Clustering
-Machine Learning • Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-### Visualization
+**Pandas • NumPy • Scikit-learn**
+**Regression • Classification • Clustering**
+**Machine Learning • Deep Learning**
 
-Matplotlib • Plotly
+### 📊 Data Visualization
 
-### UI/UX
+**Matplotlib • Plotly**
 
-Figma • User Flow • Wireframing • Prototyping • Google Stich
+### 🎨 UI/UX
 
-### Product & System Analysis
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
-Product Requirements • User Stories • Use Case
-System Analysis • Requirements Analysis • Feature Prioritization
+**User Flow • Wireframing • Prototyping • Google Stitch**
 
-### Quality Assurance
+### 📋 Product & System Analysis
 
-Functional Testing • Test Case • Bug Reporting
-Software Testing • Quality Assurance
+**Product Requirements • User Stories • Use Case**
+**System Analysis • Requirements Analysis • Feature Prioritization**
 
-### Tools
+### 🧪 Quality Assurance
 
-Git • GitHub • Jupyter Notebook • VS Code • AntiGravity
+**Functional Testing • Test Case • Bug Reporting**
+**Software Testing • Quality Assurance**
+
+### 🛠️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
+</p>
+
+**Antigravity • Jupyter Notebook • VS Code**
 
 ---
 
 ## 🌱 Currently Learning
 
-* Deep Learning
-* PyTorch
-* TensorFlow
-* PySpark
-* Apache Spark
-* FastAPI
-* MLOps
-* Software Testing & QA
-* Product Management
-* UI/UX Design
+* 🧠 Deep Learning
+* 🔥 PyTorch
+* 🤖 TensorFlow
+* ⚡ PySpark
+* 🔥 Apache Spark
+* 🚀 FastAPI
+* ☁️ MLOps
+* 🧪 Software Testing & QA
+* 📋 Product Management
+* 🎨 UI/UX Design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wulan200&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulan200&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wulan200&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wulan200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
@@ -82,14 +133,49 @@ To grow as a technology professional who can bridge **AI, data, product, systems
 
 I'm particularly interested in career paths such as:
 
-* AI / Machine Learning Engineer
-* Product Manager / Product Owner
-* System Analyst
-* UI/UX
-* Quality Assurance / Software Tester
+* 🤖 AI / Machine Learning Engineer
+* 📋 Product Manager / Product Owner
+* 🔍 System Analyst
+* 🎨 UI/UX
+* 🧪 Quality Assurance / Software Tester
+
+---
+
+## 🚀 Featured Projects
+
+> More projects coming soon...
+
+<p align="center">
+  <a href="https://github.com/wulan200">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://share.streamlit.io/user/wulan200">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0e75b6?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-https://share.streamlit.io/user/wulan200
+<p align="center">
+  <a href="https://github.com/wulan200">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://share.streamlit.io/user/wulan200">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Building, learning, and creating meaningful technology solutions.</i>
+</p>
